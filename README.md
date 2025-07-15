@@ -17,4 +17,5 @@ now you need to clone my repo
 
 to run the program use
 
-    python3 toolkit
+    python3 toolkit.py
+
